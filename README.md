@@ -1,3 +1,3 @@
 # Description #
 
-The Reason why I am doing is to start contributing online.
+Posting What I learn here day by day. Welcome to People Who want to contribute to the repo
